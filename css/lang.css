@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	border: 0;
+}
+body {
+	background: url('../img/orange-bg-blank.jpg');
+	background-size: 100% 100%;
+	/*background-repeat: repeat-x repeat-y;*/
+	
+	height: 100%;
+	width: 100%;
+}
+.footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	/*margin: 0;
+	padding: 0;
+	border: 0;*/
+}
+
+@font-face {
+	font-family:katong;
+	src: url('../fonts/katong.ttf');
+}
+
+* {
+	font-family: katong;
+	color: #000000;
+}
+p {
+	color: #000000;
+	font-family: katong;
+	font-size:25px;
+	margin: 0 auto;
+}
+
+label{
+margin: auto;
+}
