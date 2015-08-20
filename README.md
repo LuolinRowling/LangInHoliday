@@ -12,22 +12,22 @@
  - 现所完成阶段是针对我的校友会团体，希望在每次校友会活动或假期出游中看到他们的分享。
 
 <p align="center">
-<div>
-<img src="http://i.imgur.com/33534KV.png" width="300">
-</div>
+<img src="http://i.imgur.com/33534KV.png" width="300" />
+<div align="center">
 Fig. 进入页（区分群体）
+</div>
 </p>
 
 <p align="center">
-<div>
 <img src="http://i.imgur.com/OdYFO5D.png" width="300">
-</div>
+<div align="center">
 Fig. 个人信息页
+</div>
 </p>
 
 <p align="center">
-<div>
 <img src="http://i.imgur.com/xDQuEa1.png" width="300">
-</div>
+<div align="center">
 Fig. 活动选择页
+</div>
 </p>
